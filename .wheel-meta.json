@@ -1,0 +1,22 @@
+{
+  "wheel_id": 880,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-115",
+  "project": "retaining-walls-gold-coast-before-you-start-64914187507029eb843",
+  "parent_t1_ref": "retainingwallgoldcoast-157",
+  "node_role": "feeder",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast before you start",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-gold-coast-before-you-start-64914187507029eb843/",
+  "tier": "T2",
+  "writeback_nonce": "f80621b76fc7a3dd",
+  "links": [
+    {
+      "target_url": "http://retaining-walls-gold-coast-myths-b904a3aca54bd4bd7a0d490ad0ab6f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
